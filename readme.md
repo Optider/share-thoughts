@@ -2,8 +2,6 @@
 
 > Create public and private thoughts from your life
 
-Live at: <https://share-thoughts2.herokuapp.com/>
-
 This app uses Node.js/Express/MongoDB with Google OAuth for authentication
 
 ## Usage
